@@ -1,4 +1,4 @@
-# telecom_lab
+# Telecommunication Assingments 2018
 Lab exercises @NTUA Telecommunications intro-course
 
 Language used: Python 2
